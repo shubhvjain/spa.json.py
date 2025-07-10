@@ -2,7 +2,7 @@
 name = "spa-json-py"
 version = "0.0.1"
 description = "a python package to build static page apps running on json documents"
-authors = ["SVJ"]
+authors = ["SVJ <shubhvjain@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "spa"}]
